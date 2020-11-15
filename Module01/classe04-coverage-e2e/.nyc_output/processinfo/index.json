@@ -1,0 +1,1 @@
+{"processes":{"df0c0fc2-6150-4f6d-9591-c915dd654d5d":{"parent":null,"children":["f6ee673e-d217-4d30-999d-8cd414c35252"]},"f6ee673e-d217-4d30-999d-8cd414c35252":{"parent":"df0c0fc2-6150-4f6d-9591-c915dd654d5d","children":[]}},"files":{"/Users/joao/Documents/Projects/JS-Expert/Module01/classe04-coverage-e2e/api.js":["f6ee673e-d217-4d30-999d-8cd414c35252"]},"externalIds":{}}

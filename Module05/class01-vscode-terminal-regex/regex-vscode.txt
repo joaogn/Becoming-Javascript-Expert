@@ -1,0 +1,31 @@
+regex101.com
+
+use the .* on vscode search to able regex.
+------------------------------
+^\d{3}.\d{3}.\d{3}-\d{2}$
+
+123.123.123-12
+321.321.321-32
+100.200.300-40
+
+replace [.-] for ''
+---------------------------------
+
+Doe, John
+Neto, Joao
+Maria, Na
+
+replace ^(\w+),\s(\w+)$ for {firstName: "$2", lastName: "$1"}
+
+---------------------------------
+
+The [Joao Graca](https://www.linkedin.com/in/joaogn/) is a software developer see the [github](http://github.com/joaogn) and the [instragran](https://www.instagram.com/joaomucilon/)
+
+And search on [google](https://www.google.com/) or
+[bing](http://www.bing.com/)
+
+Let's go!!!
+
+replace \[(.*?)\]\(([http|https].*?)\)  for  <a href="$2">$1<a>
+
+-------------------------------

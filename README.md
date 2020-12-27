@@ -111,3 +111,9 @@ Content about Javascript Expert Course by EW.IT
   - **Proxy**
 
     Proxy works like the Observer Partner, you can add Observers, and when anything changes all observers will be notified, which is good when working with events. See the project for more details. [more](https://www.keithcirkel.co.uk/metaprogramming-in-es6-part-3-proxies/)
+
+- ## Module 05 - Javascript Regex
+
+  - **Regex**
+
+    Used to process text patterns like validate documents or get specific data based on a document and other things, but the regex can bring security problems to your software in production, to example how use and avoid problems, see the project and read this [post](https://lirantal.medium.com/node-js-pitfalls-how-a-regex-can-bring-your-system-down-cbf1dc6c4e02)
